@@ -1,0 +1,35 @@
+# Build output
+**/dist/
+**/build/
+
+# NetBeans generated files
+**/nbproject/private
+**/nbproject/Makefile-Debug.mk
+**/nbproject/Makefile-Release.mk
+**/nbproject/Makefile-impl.mk
+**/nbproject/Makefile-variables.mk
+**/nbproject/Package-Debug.bash
+**/nbproject/Package-Release.bash
+**/*.dep.inc
+
+# Qt generated files
+**/moc_*.cpp
+**/moc_predefs.h
+**/ui_*.h
+**/.qmake.stash
+**/qmake_qconn.pri
+
+# Doxygen generated documentation
+Documentation/html/
+Documentation/latex/
+
+# Object files
+*.o
+*.a
+*.so
+
+# Editor files
+*.swp
+*~
+.DS_Store
+Thumbs.db

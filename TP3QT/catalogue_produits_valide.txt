@@ -1,0 +1,8 @@
+mon catalogue
+21 08 2025 
+Electronique,Smartphone Galaxy,499.90,PRD-SMAR-60,24,0
+Vetement,T-shirt coton,19.95,PRD-TSHI-70,M,Blanc
+Electronique,Casque Bluetooth,89.99,PRD-CASQ-58,12,1
+Electronique,Montre connectée,129.99,PRD-MONT-80,18,0
+Vetement,Jean slim,49.90,PRD-JEAN-39,L,Bleu
+Vetement,Sweat à capuche,39.99,PRD-SWEA-66,XL,Gris
