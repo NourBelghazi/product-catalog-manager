@@ -1,6 +1,6 @@
 # Product Catalog Manager
 
-A C++ application for managing a typed product catalog, featuring both a command-line interface and a Qt-based graphical interface. Products are organized into a polymorphic hierarchy with strict contract-based validation.
+A C++ application for managing a typed product catalog, featuring both a command-line interface and a Qt-based graphical interface. Products are organized into a polymorphic hierarchy with strict contract-based validation
 
 ---
 
